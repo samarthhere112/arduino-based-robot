@@ -1,0 +1,2 @@
+# arduino-based-robot
+Arduino Based Robot controlled via bluetooth   Description   It is a bluetooth controlled robot  implemented in arduino IDE ,various tools like  HC-05                  bluetooth,tyres,sensors are used. This robot can be used for day to day life controlled via  android    application . The arms  of the robot are strong enough to lift things  which are controlled via blutooth .
